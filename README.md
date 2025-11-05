@@ -1,4 +1,4 @@
-# 🏦 Customer Intelligence (CI) Banking Dataset
+# 🏦 Customer Intelligence (CI) Analytics Banking
 
 ## 📖 Overview
 This project demonstrates the use of SQL for customer analytics and reporting in a banking context. It focuses on segmenting customers, analyzing transaction trends, and estimating customer lifetime value (LTV).
